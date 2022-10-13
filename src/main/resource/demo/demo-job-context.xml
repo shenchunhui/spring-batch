@@ -5,4 +5,7 @@
     <!--作业仓库-->
     <bean id="jobRepository" class="org.springframework.batch.core.repository.support.MapJobRepositoryFactoryBean"></bean>
 
+
+    <!--提交的信息1-->
+    <!--提交的信息2-->
 </beans>
